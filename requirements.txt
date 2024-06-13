@@ -1,0 +1,10 @@
+pandas
+nltk
+scikit-learn
+matplotlib
+gensim
+tensorflow
+torch
+spacy
+seaborn
+#python -m spacy download en_core_web_sm
